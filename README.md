@@ -2,7 +2,7 @@ EVE AI 4.0
 
 This is a working, messy, experimental, unsupported and still essentially working :-)
 modular AI architecture project. Use at your own risk. No questions will be answered. Fork and have fun!
-!!!note!!!!: use pytorch-gpu compatible python version
+!!!note!!!!: use pytorch-gpu compatible python version. requirements.txt is included.
 
 Sincerely yours,
 Martin and Copilot
